@@ -42,7 +42,7 @@ public class pilhapipi {
         }
     }
 
-    // Ver o bloco do topo (peek)
+    // Ver o bloco do topo.
     public void peek() {
         if (!isEmpty()) {
             System.out.println("O bloco no topo é: " + blocos[topo]);

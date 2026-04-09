@@ -10,7 +10,7 @@ public class filapipi {
         fim = 0;
         total = 0;
     }
-
+ 
     public boolean isEmpty() {
         return (total == 0);
     }

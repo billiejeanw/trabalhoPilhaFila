@@ -13,3 +13,5 @@ A fila segue a lógica FIFO (First In, First Out), onde o primeiro elemento a en
 - Controle: Realizado pelas variáveis `inicio`, `fim` e `total`.
 - Diferencial: Implementada como Fila Circular, permitindo o reaproveitamento de espaços vazios no array de forma eficiente.
 - Operações `enqueue` (inserir), `dequeue` (remover), `front` (visualizar primeiro), `isEmpty` e `isFull`.
+
+- video: https://youtu.be/DT0TmsDT73k
